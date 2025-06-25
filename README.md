@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditi Jadhav</h1>
 <h3 align="center">A passionate about web design, web development, and Android development.</h3>
 
-- 🌱 I’m currently pursuing degree in Computer Science & Engineering from **KIT's College of Engineering, Kolhapur**
+- 🌱 I’m currently pursuing degree in Computer Science & Engineering from **KIT's College of Engineering, Kolhapur** 
 
 - 👨‍💻 All of my projects overview are available at [https://aditi-jadhav.netlify.app/](https://aditi-jadhav-portfolio.netlify.app/)
 
